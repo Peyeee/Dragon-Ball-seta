@@ -1,0 +1,31 @@
+.Imagen {
+    width: 500px;
+    height: 500px;
+}
+
+.Div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    border: red solid 4px;
+}
+.Div p{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 15px;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.Imagen{
+    width: 200px;
+    height: 300px;
+}
